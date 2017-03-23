@@ -3,5 +3,5 @@
 
 def hello():
     print("Hello girl")
-    ans = input("Do you want my girlfriend?")
+    ans = input("Do you want to be my girlfriend?")
     print(ans)
